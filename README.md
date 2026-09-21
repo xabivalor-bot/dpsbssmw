@@ -151,7 +151,7 @@
     }
 
     .app-container {
-        width: min(900px, 100%);
+        width: min(1200px, 100%);
         margin: 0 auto;
     }
 
