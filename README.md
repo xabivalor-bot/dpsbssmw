@@ -12,11 +12,9 @@
 
 <style>
     :root {
-    --red: #B23A48;
-    --dark-red: #7F1D2D;
-    --peach: #FFD6C0;
-    --light-peach: #FFF1E8;
-    --cream: #FFF8F3;
+    --brown: #5A1020;
+    --olive: #B8323C;
+    --cream: #F4B08A;
 }
 
     * {
