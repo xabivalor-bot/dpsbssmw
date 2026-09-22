@@ -1038,7 +1038,7 @@
             </div>
 
             <h1 class="site-title">
-                [DPSB SSMW]
+                [DPSB-SSMW]
             </h1>
 
             <p class="site-subtitle">
