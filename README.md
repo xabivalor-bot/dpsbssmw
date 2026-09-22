@@ -12,9 +12,9 @@
 
 <style>
     :root {
-        --brown: #6F4E37;
-        --olive: #B2AC88;
-        --cream: #F5F5DC;
+       --brown: #4C0519;
+       --olive: #E11D48;
+       --cream: #FFF1F2;
 
         --friend-green: #4F7D45;
         --white: #FFFFFF;
