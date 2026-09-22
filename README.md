@@ -12,13 +12,12 @@
 
 <style>
     :root {
-        --brown: #6F4E37;
-        --olive: #B2AC88;
-        --cream: #F5F5DC;
-
-        --friend-green: #4F7D45;
-        --white: #FFFFFF;
-    }
+    --red: #B23A48;
+    --dark-red: #7F1D2D;
+    --peach: #FFD6C0;
+    --light-peach: #FFF1E8;
+    --cream: #FFF8F3;
+}
 
     * {
         box-sizing: border-box;
