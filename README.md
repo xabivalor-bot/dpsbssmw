@@ -936,7 +936,7 @@
 
     <div class="auth-box">
 
-        <div class="auth-brand">[ZaheenProduct]</div>
+        <div class="auth-brand">[CoolProduct]</div>
 
         <h1 class="auth-title">DPSB SSMW</h1>
 
@@ -1034,7 +1034,7 @@
         <header class="top-banner">
 
             <div class="product-name">
-                [ZaheenProduct]
+                [CoolProduct]
             </div>
 
             <h1 class="site-title">
